@@ -38,9 +38,9 @@ Blazor 文档地址： https://blazor.net/
     https://www.cnblogs.com/Gerryz/p/get-start-with-dotnet-blazor.html
  
  4、命令行创建项目
-    dotnet new -i Microsoft.AspNetCore.Blazor.Templates
-    dotnet new blazor -o BlazorApp
-    cd BlazorApp
+    dotnet new -i Microsoft.AspNetCore.Blazor.Templates    
+    dotnet new blazor -o BlazorApp    
+    cd BlazorApp    
     dotnet run
   
 
