@@ -26,18 +26,18 @@ Blazor 是一个 Web UI 框架，可通过 WebAssembly 在任意浏览器中运�
 * Blazor GitHub 地址：[https://github.com/aspnet/blazor](https://github.com/aspnet/blazor)
 * Blazor 文档地址：[https://blazor.net/](https://blazor.net/)
 
-####开发环境
+#### 开发环境
    * 安装 .NET Core 2.1 SDK 或更高版本
    * 安装 Visual Studio 2017 15.7 或更高版本
    * 安装最新的 Blazor Language Services extension
    
 
-###3、VS2017 创建项目 
+### 3、VS2017 创建项目 
  * 参考文案
     >[https://www.jianshu.com/p/8add0c628ff3](https://www.jianshu.com/p/8add0c628ff3)    
     >[https://www.cnblogs.com/Gerryz/p/get-start-with-dotnet-blazor.html](https://www.cnblogs.com/Gerryz/p/get-start-with-dotnet-blazor.html)
  
-###4、命令行创建项目
+### 4、命令行创建项目
 * dotnet new -i Microsoft.AspNetCore.Blazor.Templates    
 * dotnet new blazor -o BlazorApp    
 * cd BlazorApp    
